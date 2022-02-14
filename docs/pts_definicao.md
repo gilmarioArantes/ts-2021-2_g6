@@ -30,7 +30,7 @@ O https://developer.nytimes.com/apis disponibiliza algumas APIs de consulta a ba
 | --- | ---------------- | ----------- | ---------- | ----------- |
 | 1   | Funcionalidade 5 | 21/02/2022  | 28/02/2022 | Caua        |
 | 2   | Funcionalidade 4 | 21/02/2022  | 28/02/2022 | Eric        |
-| 3   | Funcionalidade 3 | 28/02/2022  | 07/03/2022 | Estevão     |
+| 3   | Funcionalidade 3 | 28/02/2022  | 07/03/2022 | Estevão  C. |
 | 4   | Funcionalidade 2 | 28/02/2022  | 07/03/2022 | Rafael      |
 | 5   | Funcionalidade 1 | 07/03/2022  | 14/03/2022 | Wesley      |
 
