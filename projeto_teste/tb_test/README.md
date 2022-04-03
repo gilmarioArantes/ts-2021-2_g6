@@ -4,7 +4,7 @@
     Se não tiver o venv instalado: apt install pythonx.x-venv (python3.8-venv no meu caso)
     python -m venv venv
   
-- Entrar no ambiente
+- Entrar no ambiente, pelo Linux:
     source ./venv/bin/activate
     No windows é diferente:
     ./venv/Scripts/Activate
