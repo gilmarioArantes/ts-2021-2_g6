@@ -5,7 +5,9 @@
     python -m venv venv
   
 - Entrar no ambiente
-    source ./environment/bin/activate
+    source ./venv/bin/activate
+    No windows é diferente:
+    ./venv/Scripts/Activate
     
 - Instalar as bibliotecas: 
     pip install -r requirements.txt
