@@ -21,10 +21,9 @@ class TestArtigos:
         assert 80, len(URL)
         for article in URL:
             assert article, dict
+
     def test_article_metada(self):
         URL = f'https://api.nytimes.com/svc/search/v2/articlesearch.json?.article_metadata("https://www.nytimes.com/live/2021/02/10/us/impeachment-trial/prosecutors-begin-arguments-against-trump-saying-he-became-the-inciter-in-chief-of-a-dangerous-insurrection")&api-key={self.api_key}'
         assert URL, list
         for article in URL:
             assert article, dict
-
-
